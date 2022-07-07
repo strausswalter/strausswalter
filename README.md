@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi, welcome to my github 👋
+
+I’m currently learning Full Stack development 📖
+
+Rio de Janeiro, Brazil 🇧🇷
 
 <!--
 **strausswalter/strausswalter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
