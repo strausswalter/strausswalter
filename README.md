@@ -9,7 +9,7 @@ Post Graduate Certificate in Full Stack Development from Infnet Institute
 <div>
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=strausswalter&show_icons=true&theme=dark"/>
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=strausswalter&layout=compact&theme=dark"/>
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=strausswalter)](https://github.com/anuraghazra/github-readme-stats)
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=strausswalter)](https://github.com/strausswalter/github-readme-stats)
  </div>
  
 
