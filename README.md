@@ -31,7 +31,7 @@ Infraestrutura e Nuvem | 3x Azure | 1x AWS | 1x OCI | Azure DevOps e Bicep | PMP
   
 <div>
 <img align="center" alt="icone azure" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
-<img align="center" alt="icone devops" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devops/devops.svg" />
+<img align="center" alt="icone devops" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/devops.svg" />
 <img align="center" alt="icone html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img align="center" alt="icone css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <img align="center" alt="icone Javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
