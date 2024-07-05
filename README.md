@@ -1,8 +1,8 @@
 ### Hey! I'm Strauss Walter 👋
 
-Full Stack Developer
+Azure DevOps
+Infraestrutura e Nuvem | 3x Azure | 1x AWS | 1x OCI | Azure DevOps e Bicep | PMP Project Manager | Agile | ITIL
 
-Post Graduate Certificate in Full Stack Development from Infnet Institute
 
 
 
@@ -34,7 +34,6 @@ Post Graduate Certificate in Full Stack Development from Infnet Institute
 <img align="center" alt="icone css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <img align="center" alt="icone Javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img align="center" alt="icone html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />        
-<img align="center" alt="icone html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />      
 <img align="center" alt="icone html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />              
 <img align="center" alt="icone html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />   
 <img align="center" alt="icone html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
