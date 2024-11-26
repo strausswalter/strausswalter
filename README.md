@@ -34,7 +34,6 @@ Infraestrutura e Nuvem | 3x Azure | 1x AWS | 1x OCI | Azure DevOps e Bicep | PMP
 <img align="center" alt="icone azure" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuredevops/azuredevops-original.svg" />
 
 <img align="center" alt="icone terraform" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" />
-<img align="center" alt="ícone Azure Bicep" height="30" width="40" src="https://raw.githubusercontent.com/Azure/bicep/main/docs/images/Bicep_Icon_RGB.svg" />
 
 <img align="center" alt="icone html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img align="center" alt="icone css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
